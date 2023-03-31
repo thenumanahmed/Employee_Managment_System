@@ -1,0 +1,4 @@
+Salary Month: March
+Employee Name: Ali Raza
+Designation: Lecturer
+Salary: 70000
