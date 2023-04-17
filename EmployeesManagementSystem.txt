@@ -10,5 +10,5 @@ E009	Ali Raza	Lecturer	70000	January	0	3	2000	70000
 E010	Farah Huusain	Lecturer	70000	December	0	3	2000	70000
 E011	Ajmal Akbar	VC	56000	January	0	2	2000	56000
 E012	Wali Muhammad	vc	30000	May	4	3	500	29500
-E0013	Haider Ali	CC	130000	November	3	4	123	130000
+E013	Haider Ali	CC	130000	November	3	4	123	130000
 E014	Numan Ahmad	Software_engineer	1500000	July	43	23	120	1497600
